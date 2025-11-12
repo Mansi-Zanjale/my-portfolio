@@ -31,28 +31,27 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
-    description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    title: "Heavens Kitchen",
+    description: "Heavens Kitchen is a cloud kitchen web platform designed to streamline online food ordering and kitchen management. It allows users to browse menus, place orders, and track deliveries, while the admin can manage food categories, orders, and inventory efficiently.",
+    url: "https://github.com/Mansi-Zanjale/Heavens-Kitchen",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Quizzle",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Quizzle is an interactive quiz web application that allows users to test their knowledge across various categories. It features user authentication, dynamic scoring, and an admin panel for managing users, questions, and categories.",
+    url: "https://github.com/Mansi-Zanjale/Quizzle",
   },
   {
     title: "My Resume Site",
     description:
       "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+    url: "https://github.com/Mansi-Zanjale/Spikitech-internship",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Pigy-game",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Piggy Game is a two-player dice game where players take turns rolling to earn points, but rolling a 1 resets their score. The first player to reach the target score wins the game.",
+    url: "https://github.com/Mansi-Zanjale/Piggy-Game",
   },
 ];
 

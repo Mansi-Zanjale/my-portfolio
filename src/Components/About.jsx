@@ -10,7 +10,7 @@ import React from "react";
  * About background image
  *
  * Below is a sample image. Upload the image of your choice into the "images"
- * directory and import here for use. Then, set imageAltText to string that 
+ * directory and import here for use. Then, set imageAltText to string that
  * represents what you see in that image.
  *
  * Need an image? Check out https://unsplash.com to download a image you
@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a dedicated Web Developer skilled in HTML, CSS, JavaScript, React.js, PHP, MySQL, and Bootstrap. I specialize in building responsive and user-friendly web applications that enhance user experience. Passionate about creating efficient digital solutions, I continuously strive to learn new technologies and improve my skills. I aim to contribute effectively to collaborative projects and deliver high-quality, innovative results.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,10 +33,10 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
+  "Attention to detail",
+  "Responsive Web Design",
   "Mobile user interfaces",
-  "Graphic design",
+  "Problem-Solving",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I’m passionate about building creative, efficient, and user-friendly web solutions. I enjoy collaborating with teams to turn ideas into impactful digital experiences. I believe in continuous learning and writing clean, purposeful code.";
 
 const About = () => {
   return (
